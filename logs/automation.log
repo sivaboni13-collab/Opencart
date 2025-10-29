@@ -1,0 +1,5 @@
+2025-10-29 08:33:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Selenium_Automation\Opencart\grouping.xml"
+2025-10-29 08:33:41 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Selenium_Automation\Opencart\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-10-29 08:33:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Automation\Opencart\grouping.xml
+
